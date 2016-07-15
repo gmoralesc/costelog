@@ -1,6 +1,6 @@
 {
   "name": "costelog",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0",
   "description": "Get random sentence from Costeño idioms for your log",
   "main": "dist/index.js",
   "scripts": {
