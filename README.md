@@ -21,9 +21,6 @@ npm install costelog
 
 ```javascript
 var costelog = require('costelog');
-var info = costelog.info();
-var warning = costelog.warning();
-var error = costelog.error();
 var randomSentence = costelog.random();
 ```
 
