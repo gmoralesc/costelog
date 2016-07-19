@@ -1,6 +1,5 @@
 {
   "name": "costelog",
-  "version": "0.0.0",
   "description": "Get random sentence from Costeño idioms for your log",
   "main": "dist/index.js",
   "scripts": {
@@ -56,7 +55,7 @@
     "npm-run-all": "2.3.0",
     "nyc": "6.6.1",
     "rimraf": "2.5.3",
-    "semantic-release": "^4.2.1",
+    "semantic-release": "^4.3.5",
     "webpack": "1.13.1"
   },
   "config": {
