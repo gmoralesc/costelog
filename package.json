@@ -1,6 +1,7 @@
 {
   "name": "costelog",
   "description": "Get random sentence from Costeño idioms for your log",
+  "version": "0.0.0-semantically-released",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
