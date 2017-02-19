@@ -1,5 +1,5 @@
-import uniqueRandomArray from 'unique-random-array';
-import costelog from './costelog.json';
+var uniqueRandomArray = require('unique-random-array');
+var costelog =  require('./costelog.json');
 
 var getRandomItem = uniqueRandomArray(costelog);
 

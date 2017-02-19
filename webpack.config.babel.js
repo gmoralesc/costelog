@@ -1,13 +1,12 @@
-import {join} from 'path'
+import {join} from 'path';
 
-const include = join(__dirname, 'src')
+const include = join(__dirname, 'src');
 
 export default {
   entry: './src/index',
   output: {
     path: join(__dirname, 'dist'),
-    libraryTarget: 'umd',
-    library: 'starWarsNames',
+    filename: 'index.js'
   },
   devtool: 'source-map',
   module: {
