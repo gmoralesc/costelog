@@ -52,7 +52,7 @@
     "mocha": "2.5.3",
     "nyc": "6.6.1",
     "rimraf": "2.5.3",
-    "semantic-release": "^4.3.5",
+    "semantic-release": "^6.3.2",
     "webpack": "1.13.1"
   },
   "config": {
