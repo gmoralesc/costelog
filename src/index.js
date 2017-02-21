@@ -1,3 +1,5 @@
+'use strict';
+
 var uniqueRandomArray = require('unique-random-array');
 var costelog =  require('./costelog.json');
 
