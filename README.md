@@ -22,6 +22,7 @@ npm install costelog
 ```javascript
 var costelog = require('costelog');
 var randomSentence = costelog.random();
+var randomSentence = costelog.random("Name");
 ```
 
 ## Author
