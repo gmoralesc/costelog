@@ -7,7 +7,6 @@ var random = (name) => replaceName(name, uniqueRandomArray(costelog)());
 var all = (name) => costelog.map((item) => replaceName(name, item));
 
 function replaceName(name, item) {
-  name = name || "";
   return item.replace(/#NAME{(.*?)}/, name || '$1').trim();
 }
 
